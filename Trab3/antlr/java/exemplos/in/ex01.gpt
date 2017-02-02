@@ -1,0 +1,10 @@
+algoritmo ex01;
+
+variaveis
+    x : inteiro;
+    y : real;
+    x : logico; // ERRO: redefinicao de variavel.
+fim_variaveis
+
+inicio
+fim

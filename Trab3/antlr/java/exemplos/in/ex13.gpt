@@ -1,0 +1,14 @@
+algoritmo ex13;
+
+variaveis
+    f : inteiro;
+fim_variaveis
+
+inicio
+
+fim
+
+funcao f() : inteiro // OK: Nomes de variaves e funcoes pode ser iguais.
+inicio
+    retorne 1;
+fim

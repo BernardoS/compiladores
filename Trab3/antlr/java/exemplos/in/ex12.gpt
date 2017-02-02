@@ -1,0 +1,15 @@
+algoritmo ex12;
+
+variaveis
+    x : inteiro;
+fim_variaveis
+
+inicio
+    x := soma(4, 2);  // OK: aridade dos argumentos bate com os parametros.
+    imprima(x);
+fim
+
+funcao soma(x: inteiro, y: inteiro) : inteiro
+inicio
+    retorne x + y;
+fim

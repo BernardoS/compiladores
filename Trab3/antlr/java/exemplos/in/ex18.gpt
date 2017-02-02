@@ -1,0 +1,16 @@
+algoritmo ex18;
+
+variaveis
+    a, b : inteiro;
+fim_variaveis
+
+inicio
+    a := leia();
+    b := soma(a,"abc");  // ERRO: segundo argumento com tipo incompativel.
+    soma(a,a);
+fim
+
+funcao soma(x: inteiro, y: inteiro) : inteiro
+inicio
+    retorne x + y;
+fim

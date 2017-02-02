@@ -1,0 +1,10 @@
+algoritmo ex16;
+
+variaveis
+    x : real;
+    y : inteiro;
+fim_variaveis
+
+inicio
+    x := y + 2.0; // OK: Promocao automatica de inteiro para real.
+fim

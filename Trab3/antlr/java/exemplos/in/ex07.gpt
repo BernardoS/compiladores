@@ -1,0 +1,5 @@
+algoritmo ex07;
+
+inicio
+    x := 42; // ERRO: variavel nao declarada
+fim

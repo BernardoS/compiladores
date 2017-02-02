@@ -1,0 +1,10 @@
+algoritmo ex02;
+
+variaveis
+    x : inteiro;
+fim_variaveis
+
+inicio
+    x := 4 + 2;
+    imprima(x);
+fim

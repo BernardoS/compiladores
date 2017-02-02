@@ -1,0 +1,15 @@
+algoritmo ex05;
+
+inicio
+
+fim
+
+funcao f(x : inteiro) : inteiro
+inicio
+    retorne 1;
+fim
+
+funcao f() : inteiro // ERRO: funcao redeclarada.
+inicio
+    retorne 0;
+fim

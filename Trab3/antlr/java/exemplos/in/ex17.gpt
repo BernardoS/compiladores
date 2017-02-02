@@ -1,0 +1,10 @@
+algoritmo ex17;
+
+variaveis
+    x : real;
+    y : inteiro;
+fim_variaveis
+
+inicio
+    y := x + 2.0; // ERRO: nao existe coercao de tipo.
+fim

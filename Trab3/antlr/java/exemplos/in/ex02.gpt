@@ -1,0 +1,8 @@
+algoritmo ex02;
+
+variaveis
+    x, x : inteiro; // ERRO: redefinicao de variavel.
+fim_variaveis
+
+inicio
+fim

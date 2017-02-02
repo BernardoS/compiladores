@@ -1,0 +1,5 @@
+algoritmo ex01;
+
+inicio
+    imprima("Ola mundo!");
+fim

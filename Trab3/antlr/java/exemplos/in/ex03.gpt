@@ -1,0 +1,15 @@
+algoritmo ex03;
+
+variaveis
+    x : inteiro;
+fim_variaveis
+
+inicio
+
+fim
+
+funcao f() : inteiro
+    x : real; // OK: Variavel fora do escopo do programa principal.
+inicio
+    retorne 1;
+fim

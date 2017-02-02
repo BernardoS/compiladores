@@ -1,0 +1,12 @@
+algoritmo ex03;
+
+variaveis
+    x : inteiro;
+    y : inteiro;
+fim_variaveis
+
+inicio
+    x := 42;
+    y := x / 2;
+    imprima(y);
+fim

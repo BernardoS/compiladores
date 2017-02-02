@@ -1,0 +1,18 @@
+algoritmo ex07;
+
+variaveis
+    x : inteiro;
+fim_variaveis
+
+inicio
+    x := soma(4, 2);
+    imprima(x);
+fim
+
+funcao soma(x: inteiro, y: inteiro) : inteiro
+    z : inteiro;
+inicio
+    imprima("Dentro da funcao soma.");
+    z := x + y;
+    retorne z;
+fim

@@ -1,0 +1,9 @@
+algoritmo ex04;
+
+inicio
+    se (0 < 1) entao
+        imprima("OK!");
+    senao
+        imprima("Huh?");
+    fim_se
+fim

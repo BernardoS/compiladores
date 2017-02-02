@@ -1,0 +1,11 @@
+algoritmo ex04;
+
+inicio
+
+fim
+
+funcao f(x : inteiro) : inteiro
+    x : real; // ERRO: variavel local com o mesmo nome que o parametro.
+inicio
+    retorne 1;
+fim

@@ -1,0 +1,10 @@
+algoritmo ex06;
+
+inicio
+
+fim
+
+funcao leia() : inteiro // ERRO: redeclaracao de funcao primitiva.
+inicio
+    retorne 0;
+fim

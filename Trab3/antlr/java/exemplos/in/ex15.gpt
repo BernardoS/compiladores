@@ -1,0 +1,9 @@
+algoritmo ex15;
+
+variaveis
+    x : real;
+fim_variaveis
+
+inicio
+    x := 2; // OK: Promocao automatica de inteiro para real.
+fim

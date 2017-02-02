@@ -1,0 +1,9 @@
+algoritmo ex14;
+
+variaveis
+    x : inteiro;
+fim_variaveis
+
+inicio
+    x := verdadeiro; // ERRO: tipos incompativeis.
+fim

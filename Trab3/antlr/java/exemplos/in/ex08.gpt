@@ -1,0 +1,9 @@
+algoritmo ex08;
+
+variaveis
+    x : inteiro;
+fim_variaveis
+
+inicio
+    x := y + 42; // ERRO: variavel 'y' nao declarada
+fim
